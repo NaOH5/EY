@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["⚖️ Glory to GB and MoJ", "⚖️ Keeping Peace, Building Future."];
+const statusMessages = ["⚖️ Glory to GB and MoJ", "⚖️ Keeping Peace, Building Future.",  "⚖️ Fighting the nabons", "⚖️ For a brighter future!"];
 const statusTypes = [ 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
